@@ -5,3 +5,4 @@ juustoa
 kananmunia
 omenoita
 appelsiineja
+mandariineja
